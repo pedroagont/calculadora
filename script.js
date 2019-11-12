@@ -94,4 +94,4 @@
     botones[i].addEventListener("click", obtenerDato);
   }
 
-})();
+})(); // Aquí termina el IIFE
